@@ -2,6 +2,7 @@ package com.example.diary;
 
 import lombok.Data;
 
+
 @Data
 @Table(name="m_emp")
 public class Employee {
