@@ -9,7 +9,6 @@ public class MemberServiceImpl implements MemberService {
         // TODO Auto-generated method stub
         return null;
     }
-
     // @Override
     // public ArrayList<Member> getAll() {
     //     // TODO Auto-generated method stub
