@@ -1,18 +1,18 @@
-package com.example.diary.service;
+// package com.example.diary.service;
 
-import java.util.ArrayList;
+// import java.util.ArrayList;
 
-public class MemberServiceImpl implements MemberService {
+// public class MemberServiceImpl implements MemberService {
 
-    @Override
-    public String greet(int i) {
-        // TODO Auto-generated method stub
-        return null;
-    }
-    // @Override
-    // public ArrayList<Member> getAll() {
-    //     // TODO Auto-generated method stub
-    //     return null;
-    // }
+//     @Override
+//     public String greet(int i) {
+//         // TODO Auto-generated method stub
+//         return null;
+//     }
+//     // @Override
+//     // public ArrayList<Member> getAll() {
+//     //     // TODO Auto-generated method stub
+//     //     return null;
+//     // }
 
-}
+// }

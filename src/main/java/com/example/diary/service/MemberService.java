@@ -1,11 +1,11 @@
-package com.example.diary.service;
+// package com.example.diary.service;
 
-import java.util.ArrayList;
+// import java.util.ArrayList;
 
-public interface MemberService {
+// public interface MemberService {
 
-    String greet(int i); //挨拶を返す
+//     String greet(int i); //挨拶を返す
 
-    // ArrayList<Member> getAll(); //全てのMemberを返す
+//     // ArrayList<Member> getAll(); //全てのMemberを返す
 
-}
+// }
