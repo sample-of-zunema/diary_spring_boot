@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping("diary")
 public class DiaryController {
     
+    
     @Autowired
     DiaryRepository diaryRepository;
 
